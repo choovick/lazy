@@ -8,6 +8,12 @@ return {
     },
   },
   {
+    "UncleBill/prism.vim",
+  },
+  {
+    "Mofiqul/dracula.nvim",
+  },
+  {
     "LazyVim/LazyVim",
     opts = {
       colorscheme = "catppuccin",
